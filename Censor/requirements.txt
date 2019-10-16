@@ -1,0 +1,4 @@
+# Function dependencies, for example:
+# package>=version
+pydub>=0.23.1
+numpy>=1.16.3

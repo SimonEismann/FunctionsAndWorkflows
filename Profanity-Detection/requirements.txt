@@ -1,0 +1,3 @@
+# Function dependencies, for example:
+# package>=version
+profanity>=1.1
