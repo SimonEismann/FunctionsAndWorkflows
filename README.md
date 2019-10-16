@@ -1,5 +1,5 @@
 # FunctionsAndWorkflows
-The code for the functions and workflows used in our manuscript "Predicting the Costs of Serverless Workflows"
+The code for the functions and workflows used in our manuscript "Predicting the Costs of Serverless Workflows".
 
 ## Functions
 The five folders correspond to the functions Text2Speech, Profanity-Detection, Conversion, Censor and Compression. Each function consists of a main.py containing the function code and a requrements.txt that specifies the required python libraries. These files can be deployed using the Google Cloud UI. During our experimentation, each function was deployed with 512 MB.
